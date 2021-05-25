@@ -14,23 +14,23 @@ function AboutPage() {
             <ImageSection />
             <Tittle title={'My Skills'} span={'My Skills'} />
             <div className="skillsContainer">
-                <SkillsSection skill={'Html'}  progress={' '} width={'100%'} />
-                <SkillsSection skill={'Css'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'JavaScript'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'Python'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'Javav/JavaFX'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'ReactJS'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'AngularJS'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'NodeJS'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'R Language'} progress={' '} width={'100'} />
-                <SkillsSection skill={'MySQL'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'MongoDB'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'AWS'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'IoT'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'Artificial Intelligence / Neural Networks'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'BigData'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'Algorithms'} progress={' '} width={'100%'} />
-                <SkillsSection skill={'React Native'} progress={' '} width={'100%'} />
+                <SkillsSection skill={'Html'}  progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'Css'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'JavaScript'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'Python'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'Javav/JavaFX'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'ReactJS'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'AngularJS'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'NodeJS'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'R Language'} progress={'🤩 '} width={'100'} />
+                <SkillsSection skill={'MySQL'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'MongoDB'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'AWS'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'IoT'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'Artificial Intelligence / Neural Networks'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'BigData'} progress={' 🤩'} width={'100%'} />
+                <SkillsSection skill={'Algorithms'} progress={'🤩 '} width={'100%'} />
+                <SkillsSection skill={'React Native'} progress={' 🤩'} width={'100%'} />
                 
             </div>
 
