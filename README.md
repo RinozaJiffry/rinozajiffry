@@ -33,7 +33,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://angularjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/r-project.png"/> </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a>
 
     
@@ -70,7 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rinoza-jiffry-3277671a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://rinoza-jiffry.medium.com/"><img src="https://img.icons8.com/windows/32/000000/medium.png"/>"/></a>
+
 
 
 </p>
