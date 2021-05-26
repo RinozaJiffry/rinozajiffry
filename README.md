@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.techgig.com%2Fthumb%2Fmsid-75430401%2Cwidth-860%2Cresizemode-4%2F5-tips-for-students-to-improve-coding-skills-during-college.jpg%3F58220&imgrefurl=https%3A%2F%2Fcontent.techgig.com%2F5-tips-for-students-to-improve-coding-skills-during-college%2Farticleshow%2F75430401.cms&tbnid=X_xDapFeB1iLkM&vet=12ahUKEwiO59ut4eTwAhXui0sFHW5JAgUQMygfegUIARCWAg..i&docid=_EubO-UQ89ZwtM&w=860&h=480&q=coding%20images&ved=2ahUKEwiO59ut4eTwAhXui0sFHW5JAgUQMygfegUIARCWAg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://content.techgig.com/thumb/msid-75430401,width-860,resizemode-4/5-tips-for-students-to-improve-coding-skills-during-college.jpg?58220" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RinozaJiffry/RinozaJiffry/master/wave.gif" width="30px">, I'm Rinoza Jiffry</h1>
+<h1 align="center">Hi <span class="wave">👋</span> width="30px">, I'm Rinoza Jiffry</h1>
 <h3 align="center">Frontend Developer | DataScience Enthusiast | Software Engineerning Undergraduate.</h3>
 
 
