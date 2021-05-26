@@ -1,4 +1,4 @@
-<a href="#"><center><img width="40%" height="auto" src="https://content.techgig.com/thumb/msid-75430401,width-860,resizemode-4/5-tips-for-students-to-improve-coding-skills-during-college.jpg?58220" height="40px"/></center></a>
+<a href="#"><img width="40%" style="vertical-align:middle;margin:0px 50px" src="https://content.techgig.com/thumb/msid-75430401,width-860,resizemode-4/5-tips-for-students-to-improve-coding-skills-during-college.jpg?58220" height="40px"/></a>
 
 <h1 align="center">Hi <span class="wave" >👋</span> , I'm Rinoza Jiffry</h1>
 <h3 align="center">Frontend Developer | DataScience Enthusiast | Software Engineerning Undergraduate.</h3>
