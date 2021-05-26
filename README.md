@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<a href="#"><img width="100%" height="auto" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.techgig.com%2Fthumb%2Fmsid-75430401%2Cwidth-860%2Cresizemode-4%2F5-tips-for-students-to-improve-coding-skills-during-college.jpg%3F58220&imgrefurl=https%3A%2F%2Fcontent.techgig.com%2F5-tips-for-students-to-improve-coding-skills-during-college%2Farticleshow%2F75430401.cms&tbnid=X_xDapFeB1iLkM&vet=12ahUKEwiO59ut4eTwAhXui0sFHW5JAgUQMygfegUIARCWAg..i&docid=_EubO-UQ89ZwtM&w=860&h=480&q=coding%20images&ved=2ahUKEwiO59ut4eTwAhXui0sFHW5JAgUQMygfegUIARCWAg" height="175px"/></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RinozaJiffry/RinozaJiffry/master/wave.gif" width="30px">, I'm Rinoza Jiffry</h1>
+<h3 align="center">Frontend Developer | DataScience Enthusiast | Software Engineerning Undergraduate.</h3>
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🙋‍♂️ About Me
 
-### `npm start`
+- 🔭 I’m currently learning **Vue Js**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 🌱 I’m intersted in **Machine learning projects**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-### `npm test`
+- 👨‍💻 I am a blogger **[My Blogs](https://rinoza-jiffry.medium.com/)**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 📫 How to reach me **jiffryrinoza56@gmail.com**
+  
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Languages and Tools:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://angularjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"> </a>
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/r-project.png"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/> </a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    
+    
+</p>
 
-### `npm run eject`
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="center">
+    <a href="https://github.com/RinozaJiffry/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rinoza Jiffry's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RinozaJiffry&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📊 My Github Stats
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  <br/>
+    <a href="https://github.com/RinozaJiffry/github-readme-stats"><img alt="Rinoza Jiffry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RinozaJiffry&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/RinozaJiffry/github-readme-stats"><img alt="Rinoza Jiffry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinozaJiffry&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+<br/>
+<br/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://github.com/RinozaJiffry/github-readme-activity-graph"><img alt="Rinoza Jiffry's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RinozaJiffry&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br/>
+<br/>
 
-### Code Splitting
+## Connect with me:
+<p align="left">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a href = "https://www.linkedin.com/in/rinoza-jiffry-3277671a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://rinoza-jiffry.medium.com/"><img src="https://img.icons8.com/windows/32/000000/medium.png"/>"/></a>
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+</p>
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ❤ Views and Followers
+<a href="https://github.com/megna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=RinozaJiffry">
+</a>
+<a href="https://github.com/RinozaJiffry?tab=followers"><img src="https://img.shields.io/github/followers/RinozaJiffry?label=Followers&style=social" alt="GitHub Badge"></a>
