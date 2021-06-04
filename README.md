@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer | DataScience Enthusiast | Software Engineerning Undergraduate.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♀️♂️ About Me
 
 - 🔭 I’m currently learning **Vue Js**
 
