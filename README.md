@@ -6,7 +6,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🔭 I’m currently learning **Machine Learning Concepts**
+- 🔭 I’m currently learning **Machine Learning Concepts and Solidity**
 
 - 🌱 I’m intersted in **Machine learning projects**
 
