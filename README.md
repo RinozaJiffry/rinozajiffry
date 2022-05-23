@@ -14,7 +14,7 @@
 
 - 👨‍💻 I am a blogger **[My Blogs](https://rinoza-jiffry.medium.com/)**
 
-- 📫 How to reach me **jiffryrinoza56@gmail.com**
+- 📫 How to reach me **jiffryrinoza03@gmail.com**
   
 
 
