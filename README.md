@@ -6,7 +6,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🔭 I’m currently learning **DSA and Azure*
+- 🔭 I’m currently learning **DSA and Azure**
 
 - 🌱 I’m intersted in **Blockchain Projects**
 
